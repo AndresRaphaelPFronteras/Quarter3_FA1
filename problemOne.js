@@ -1,0 +1,6 @@
+
+function runProblemOne()
+{     
+    alert(personalInformation);
+}
+

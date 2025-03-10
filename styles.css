@@ -1,0 +1,21 @@
+
+body {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    display: inline-block;
+    margin: 20px;
+}
+
